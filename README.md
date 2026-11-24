@@ -1,2 +1,3 @@
-# kitelovkin.github.io
-User GitHub Pages site
+# Aryuna landing
+
+Live: https://kitelovkin.github.io/
